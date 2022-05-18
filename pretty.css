@@ -1,0 +1,26 @@
+body {
+    background-color: #00070c;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1%;
+}
+
+.photo {
+    width: 35%;
+}
+
+.global {
+    display: flex;
+    justify-content: center;
+}
+
+input {
+    border-radius: 25px;
+    width: 300px;
+    height: 120%;
+    text-align: center;
+}
+
